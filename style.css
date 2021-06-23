@@ -1,0 +1,124 @@
+body
+{
+    font-family: 'Lobster', cursive;
+    background-color: rgb(255, 180, 226);
+}
+
+.funky
+{
+    background-color: rgb(255, 0, 140);
+    color: azure;
+
+}
+.funky img 
+{
+    width:100px;
+    
+}
+
+
+
+
+
+
+
+#camera,#result
+{
+   border:3.5px solid whitesmoke;
+   width:310px;
+   height: 300px;
+   box-shadow: 5px 5px 20px rgb(243, 108, 243); 
+}
+
+
+
+
+
+.George_Pig 
+{
+    padding:10px;
+    margin-top: 15px;
+}
+
+.George_Pig label 
+{
+    background-color: rgb(247, 100, 168);
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    font-size:25px;
+    color:white;
+}
+
+.George_Pig button 
+{
+    width:310px;
+    font-size:20px;
+    box-shadow: 5px 5px 20px white;
+    border: 1px solid ; 
+
+
+}
+
+
+
+
+
+
+
+.Peppa_Pig 
+{
+    padding:10px;
+    margin-top: 15px;
+}
+
+.Peppa_Pig label 
+{
+    background-color: rgb(247, 100, 168);
+    width:310px;
+    padding:10px;
+    margin-bottom:0px;
+    font-size:25px;
+    color:white;
+}
+
+.Peppa_Pig button 
+{
+    width:310px;
+    font-size:20px;
+    box-shadow: 5px 5px 20px white;
+    border: 1px solid ; 
+}
+
+
+
+
+.answer
+{
+    margin-bottom:50px ;
+}
+
+.answer h4 
+{
+    background-color: cornsilk;
+    border-radius: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 20px white;
+}
+
+.answer img 
+{
+    width:70px;
+}
+
+.copyright_footer
+{
+    position: fixed;
+    bottom: 0; 
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height:2;
+}
+
+
